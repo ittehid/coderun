@@ -1,2 +1,5 @@
-# coderun
-Coderun solutions on golang
+В этом репозитории я буду собирать задачи с платформы [Coderun](https://www.coderun.yandex.ru/). 
+
+## О Репозитории
+
+- Решения представлены на языке Go
